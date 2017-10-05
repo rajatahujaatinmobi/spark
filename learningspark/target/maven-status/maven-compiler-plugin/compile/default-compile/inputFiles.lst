@@ -1,0 +1,7 @@
+/home/hadoop/sparkscalarepo/learning-spark/learningspark/src/main/java/org/learningspark/simple/WordCount.java
+/home/hadoop/sparkscalarepo/learning-spark/learningspark/src/main/java/org/learningspark/simple/FileCopy.java
+/home/hadoop/sparkscalarepo/learning-spark/learningspark/src/main/java/org/learningspark/simple/LineCount.java
+/home/hadoop/sparkscalarepo/learning-spark/learningspark/src/main/java/org/learningspark/simple/SimpleAggregation.java
+/home/hadoop/sparkscalarepo/learning-spark/learningspark/src/main/java/org/learningspark/simple/LineCountWithFiltering.java
+/home/hadoop/sparkscalarepo/learning-spark/learningspark/src/main/java/org/learningspark/simple/LeftOuterJoin.java
+/home/hadoop/sparkscalarepo/learning-spark/learningspark/src/main/java/org/learningspark/simple/InnerJoin.java
